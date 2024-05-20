@@ -63,7 +63,7 @@
 
 &nbsp;
 
-Results of running with Other Ways via Google Colab : 
+## Results of running with Other Ways via Google Colab : 
 
 &nbsp;
 
