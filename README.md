@@ -47,8 +47,6 @@
 
 &nbsp;
 
-&nbsp;
-
 ### &#x1F3C3; Run :
 <pre>
     ❯ python3 main.py
@@ -56,5 +54,21 @@
 </pre>
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+&nbsp;
+
+Results of running with Other Ways via Google Colab : 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/LLM_in_google_colab.png" alt="LLM_in_google_colab" style="display: block; margin: 0 auto;">
+</div> 
 
 &nbsp;
